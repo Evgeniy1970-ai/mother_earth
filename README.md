@@ -1,1 +1,1 @@
-# mother_earth is the travel rpoject created with HTML, CSS, JS and PHP.
+# mother_earth is the travel project created with HTML, CSS, JS and PHP.
